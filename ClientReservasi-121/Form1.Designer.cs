@@ -129,7 +129,7 @@
             // 
             // btSimpan
             // 
-            this.btSimpan.Location = new System.Drawing.Point(547, 59);
+            this.btSimpan.Location = new System.Drawing.Point(566, 62);
             this.btSimpan.Name = "btSimpan";
             this.btSimpan.Size = new System.Drawing.Size(75, 23);
             this.btSimpan.TabIndex = 10;
@@ -139,7 +139,7 @@
             // 
             // btUpdate
             // 
-            this.btUpdate.Location = new System.Drawing.Point(547, 108);
+            this.btUpdate.Location = new System.Drawing.Point(566, 106);
             this.btUpdate.Name = "btUpdate";
             this.btUpdate.Size = new System.Drawing.Size(75, 23);
             this.btUpdate.TabIndex = 11;
@@ -149,7 +149,7 @@
             // 
             // btHapus
             // 
-            this.btHapus.Location = new System.Drawing.Point(547, 154);
+            this.btHapus.Location = new System.Drawing.Point(566, 151);
             this.btHapus.Name = "btHapus";
             this.btHapus.Size = new System.Drawing.Size(75, 23);
             this.btHapus.TabIndex = 12;
@@ -159,7 +159,7 @@
             // 
             // btClear
             // 
-            this.btClear.Location = new System.Drawing.Point(547, 196);
+            this.btClear.Location = new System.Drawing.Point(566, 196);
             this.btClear.Name = "btClear";
             this.btClear.Size = new System.Drawing.Size(75, 23);
             this.btClear.TabIndex = 13;
